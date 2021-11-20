@@ -14,5 +14,6 @@
 	"author": "Francisco José González Miranda",
 	"description": "project course node",
 	"keywords": ["freecodecamp","course","node"],
-    "license":"MIT"
+	"license":"MIT",
+	"version":"1.0.0"
 }
