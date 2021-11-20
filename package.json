@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Francisco José González Miranda"
+	"author": "Francisco José González Miranda",
+	"description": "project course node"
 }
